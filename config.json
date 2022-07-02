@@ -1,8 +1,8 @@
 {
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
   "twrp_branch": "twrp-9.0",
-  "git_username": "UG40A",
-  "git_email": "UG40A@users.noreply.github.com",
+  "git_username": "voipsy",
+  "git_email": "37921907+voipsy@users.noreply.github.com",
   "use_own_dt": true,
   "dt_url": "UG40A/android_device_leeco_zl0",
   "dt_branch": "main",
